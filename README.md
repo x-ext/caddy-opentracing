@@ -16,7 +16,7 @@ a Jaeger configuration might look like:
 
 Caddyfile
 
-```caddy
+```shell
 {
 	auto_https off
 	http_port 80
